@@ -1,16 +1,20 @@
-### Hi there 👋
+<div>
+<h1 align="center">👋 Hello, my name is 47qw</h1>
+<h3 align="center">I'm 17yo and I code almost in Java</h3>
 
-<!--
-**47qw/47qw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">👯 Manager at <strong>WorthHost</strong> <strong></strong></p>
+</div>
+<div align="center">
+<h2>🚀 Skills</h2>
+ <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></code>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ <h2 align="center">⚡ Contacts</h2>
+<div class="mail">
+</div>
+<div class="discord">
+ <a href="https://discord.com/users/108336927762">
+ <img src="https://img.shields.io/badge/Discord-282B30?style=for-the-badge&logo=discord&logoColor=white"/>
+</div>
