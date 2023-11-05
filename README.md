@@ -14,8 +14,4 @@
  <h2 align="center">⚡ Contacts</h2>
 <div class="mail">
 </div>
-<div class="discord">
- <a href="https://discord.com/users/108336927762">
- <img src="https://img.shields.io/badge/Discord-282B30?style=for-the-badge&logo=discord&logoColor=white"/>
-</div>
 <img src="https://lanyard.cnrad.dev/api/1161763881933352981">
